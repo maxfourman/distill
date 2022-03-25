@@ -1,10 +1,17 @@
 ---
-title: "About this site"
-description: |
-  Some additional details about the website
+title: "Max Fourman"
+image: "max.jpg"
+links:
+#  - label: LinkedIn
+#    url: "https://linkedin.com/"
+  - label: Twitter
+    url: "https://twitter.com/maxfourman"
+  - label: GitHub
+    url: "https://github.com/maxfourman"
+  - label: Email
+    url: "mailto:maxfourman@gmail.com"
+output:
+  postcards::jolla
 ---
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
-
+ 
+I am a Medical Student soon to start work as a FY1 doctor based in Raigmore hospital, Inverness. I am interested in genomics, data science and medical education.
