@@ -5,14 +5,14 @@
       "title": "Max Fourman",
       "author": [],
       "contents": "\n\n          \n          \n          max fourman\n          \n          \n          Home\n          About\n          Blog\n          ☰\n          \n          \n      \n        \n          \n            Max Fourman\n          \n          \n            \n              I am a Medical Student soon to start work as a FY1\n              doctor based in Raigmore hospital, Inverness. I am\n              interested in genomics, data science and medical\n              education.\n            \n            \n              I am a Medical Student soon to start work as a FY1\n              doctor based in Raigmore hospital, Inverness. I am\n              interested in genomics, data science and medical\n              education.\n            \n          \n\n          \n            \n              \n                  \n                    \n                      Twitter\n                    \n                  \n                \n                                \n                  \n                    \n                      GitHub\n                    \n                  \n                \n                                \n                  \n                    \n                      Email\n                    \n                  \n                \n                              \n          \n\n          \n            \n              \n                                \n                  \n                    Twitter\n                  \n                \n                                \n                  \n                    GitHub\n                  \n                \n                                \n                  \n                    Email\n                  \n                \n                              \n            \n          \n        \n      \n    \n\n    \n    \n    ",
-      "last_modified": "2022-03-25T09:10:49+00:00"
+      "last_modified": "2022-03-25T09:26:36+00:00"
     },
     {
       "path": "blog.html",
       "title": "Blog",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2022-03-25T09:10:50+00:00"
+      "last_modified": "2022-03-25T09:26:37+00:00"
     },
     {
       "path": "index.html",
@@ -20,7 +20,7 @@
       "description": "Welcome to the website. I hope you enjoy it!\n",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2022-03-25T09:10:53+00:00"
+      "last_modified": "2022-03-25T09:26:38+00:00"
     }
   ],
   "collections": ["posts/posts.json"]
