@@ -1,0 +1,19 @@
+[
+  {
+    "path": "posts/2022-03-25-welcome/",
+    "title": "welcome",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Max Fourman",
+        "url": {}
+      }
+    ],
+    "date": "2022-03-25",
+    "categories": [],
+    "contents": "\nDistill is a publication format for scientific and technical writing,\nnative to the web.\nLearn more about using Distill at https://rstudio.github.io/distill.\n\n\n\n",
+    "preview": {},
+    "last_modified": "2022-03-25T09:09:27+00:00",
+    "input_file": {}
+  }
+]
